@@ -11,7 +11,7 @@ Implementing convolutional and recurrent neural networks in Keras to generate se
 
 ### Introduction
 --------------
-The Keras deep learning architecture of this project was inspired by [Deep Visual-Semantic Alignments for Generating Image Descriptions] (http://cs.stanford.edu/people/karpathy/cvpr2015.pdf) by Andrej Karpathy and Fei-Fei Li. 
+The Keras deep learning architecture of this project was inspired by [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf) by Andrej Karpathy and Fei-Fei Li. 
 
   <img src = "readme_images/intro.png">
 
